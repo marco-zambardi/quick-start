@@ -35,3 +35,5 @@ When your segment is completed, click Save to add it to the system.
 ![](screenshot-cplan.contactlab.it 2016-06-06 11-58-44.jpg)
 
 To re-open it, just click on the segment's name.
+
+Next page: [Creating a new Plan](creating_a_new_plan.md)
