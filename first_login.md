@@ -16,6 +16,7 @@ At first login, the home page looks like this:
 
 ![](screenshot-cplan.contactlab.it 2016-05-30 14-10-23.jpg)
 
+Next page: [Selecting the Database](selecting_the_database.md)
 
 Related pages:
 * [Selecting the Database](selecting_the_database.md)
