@@ -19,7 +19,7 @@ At first login, the home page looks like this:
 
 Related pages:
 * [Selecting the Database](selecting_the_database.md)
-* Creating a new Segment
+* [Creating a new Segment](creating_a_new_segment.md)
 * Creating a new Plan
 * Logout
 
