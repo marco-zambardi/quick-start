@@ -37,3 +37,9 @@ When your segment is completed, click Save to add it to the system.
 To re-open it, just click on the segment's name.
 
 Next page: [Creating a new Plan](creating_a_new_plan.md)
+
+Related pages:
+* [Selecting the Database](selecting_the_database.md)
+* [Creating a new Segment](creating_a_new_segment.md)
+* [Creating a new Plan](creating_a_new_plan.md)
+* [Sign Out](sign_out.md)
