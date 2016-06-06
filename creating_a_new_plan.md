@@ -40,7 +40,7 @@ When you select "Clab Consumer", the system will display additional fields where
 
 When you complete the new plan, or you need a break, you can save it either as Draft (nothing happens but all the work so far is saved in the system) or Ready (at the target date, the plan is executed accordingly to the selected Consumer).
 
-![](screenshot-cplan.contactlab.it 2016-06-06 17-29-38.jpg)
+
 
 After saving, your plan will appear in the Plans page.
 
