@@ -5,5 +5,5 @@
 * [Selecting the database](selecting_the_database.md)
 * [Creating a new Segment](creating_a_new_segment.md)
 * [Creating a new Plan](creating_a_new_plan.md)
-* [Logout](logout.md)
+* [Sign Out](logout.md)
 
