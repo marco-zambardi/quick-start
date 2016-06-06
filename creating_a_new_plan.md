@@ -51,3 +51,8 @@ you can click on the Plan's name to open it.
 
 Next Page: [Sign Out](sign_out.md)
 
+Related pages:
+* [Selecting the Database](selecting_the_database.md)
+* [Creating a new Segment](creating_a_new_segment.md)
+* [Creating a new Plan](creating_a_new_plan.md)
+* [Sign Out](sign_out.md)
