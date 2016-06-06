@@ -15,4 +15,8 @@ You can select the database from the drop down menu named "Tenant". As you selec
 
 Next page: [Creating a new Segment](creating_a_new_segment.md)
 
-
+Related pages:
+* [Selecting the Database](selecting_the_database.md)
+* [Creating a new Segment](creating_a_new_segment.md)
+* [Creating a new Plan](creating_a_new_plan.md)
+* [Sign Out](sign_out.md)
