@@ -39,6 +39,7 @@ To re-open it, just click on the segment's name.
 Next page: [Creating a new Plan](creating_a_new_plan.md)
 
 Related pages:
+* [First Sign In](first_sign_in.md) 
 * [Selecting the Database](selecting_the_database.md)
 * [Creating a new Segment](creating_a_new_segment.md)
 * [Creating a new Plan](creating_a_new_plan.md)
