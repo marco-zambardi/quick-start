@@ -8,3 +8,23 @@ To create a new Plan, click on "Create new plan". The following page will be dis
 
 ![](screenshot-cplan-dev.contactlab.dev 2016-06-06 12-51-03.jpg)
 
+To complete a Plan, at least the following information must be filled:
+* plan's name
+* target date of plan's execution
+* target audience of the plan, i.e. the segment 
+
+You can modify the target date simply clicking on the date field, a calendar will appear to select the new date and hour.
+
+![](screenshot-cplan-dev.contactlab.dev 2016-06-06 12-55-47.jpg)
+
+
+You can select the target segment, you can click on the "Select segment" field; the system will show all the available segments. you can choose the target one by selecting it. 
+
+![](screenshot-cplan.contactlab.it 2016-06-06 12-59-03.jpg)
+
+To add a DND policy, click on the DND policy field, the system will show all the available policies. You can choose one by selecting it.
+
+![](screenshot-cplan.contactlab.it 2016-06-06 13-03-53.jpg)
+
+
+To select "who" is going to use the list of customers selected by the segment (and by the DND policy) in the target date of the plan, you must select a Consumer. Available Consumers are shown by clicking on the Consumer field, they are sFTP and CLAB
