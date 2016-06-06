@@ -13,3 +13,6 @@ If you are authorized to operate on more than one database, you can switch to a 
 You can select the database from the drop down menu named "Tenant". As you select a different database, the system will reload automatically.
 
 
+Next page: [Creating a new Segment](creating_a_new_segment.md)
+
+
