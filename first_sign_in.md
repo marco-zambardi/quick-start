@@ -1,6 +1,6 @@
-# First Login
+# First Sign In
 
-In order to login to your Contactplan instance, just open your browser and type the following URL:
+In order to sign in to Contactplan, just open your browser and type the following URL:
 
 [https://cplan.contactlab.it](https://cplan.contactlab.it)
 
