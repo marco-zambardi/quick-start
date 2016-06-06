@@ -48,5 +48,4 @@ After saving, your plan will appear in the Plans page.
 
 you can click on the Plan's name to open it.
 
-
-
+Next Page: [Logout](logout.md)
