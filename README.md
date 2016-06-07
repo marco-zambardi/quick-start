@@ -3,6 +3,8 @@
 
 The present document is a **very Quick Start Guide** meant to help you during your first access to Contactplan. 
 
+Pre-requisite to use this guide is that you already have received credentials to access Contactplan.
+
 To exploit all Contactplan features, please refer to Contactplan "How to guide" and other documentation available.
 
 
