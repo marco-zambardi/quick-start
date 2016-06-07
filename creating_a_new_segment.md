@@ -1,11 +1,14 @@
 # Creating a new Segment
 
+Segment is a set of conditions combined togheter by means of logic operator and applied over a given database. Contacts satysfing the conditions are selected by the segment. Note that the same segment can select different set of contacts in different moment in time. 
+Conditions are organized in Rules, each segment contains at least one Rule. Each Rule expresses a set of conditions about a given type of data, e.g. Demographic data.
+For more information about Segment, please refer to Contactplan "how to" guide and to other available documentation.
 
 At first login, the Segment page appears like this:
 
 ![](screenshot-cplan.contactlab.it 2016-06-06 11-44-38.jpg)
 
-To start creating your own segments, just click on "Create new segment". The following page will be displayed.
+To start creating your own segments, just click on "Create new segment" tab. The following page will be displayed.
 
 ![](screenshot-cplan.contactlab.it 2016-06-06 11-46-27.jpg)
 
