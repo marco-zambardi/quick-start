@@ -4,10 +4,12 @@ In order to sign in to Contactplan, just open your browser and type the followin
 
 [https://cplan.contactlab.it](https://cplan.contactlab.it)
 
-**Note: the supported browser at the of writing are:
+**Note: the supported browser at the time of writing are:
 * Google Chrome version 50 or later**
 
-The browser shows the Account Central page where you can insert your credentials to access Contactplan. If you are already a user of Contactlab platform, you can use the very same credentials.
+The browser shows the Account Central page where you can insert your credentials to access Contactplan. To access Contactplan please use the credentials you have received from Contactlab.
+
+If you are already a users of Contactlab platform and you have been enabled to use Contactplan, then you can sign in with the same credentials used to access Contactlab platform.
 
 ![](screenshot-oauth.contactlab.it 2016-05-30 14-08-01.jpg)
 
