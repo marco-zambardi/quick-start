@@ -49,7 +49,7 @@ After saving, your plan will appear in the Plans page.
 
 you can click on the Plan's name to open it to see the details or to modify it.
 
-Next Page: [Sign Out](sign_out.md)
+Next Page: [Creating a new Do Not Disturb policy](creating_a_new_do_not_disturb_policy.md)
 
 Related pages:
 * [First Sign In](first_sign_in.md) 
