@@ -5,6 +5,6 @@
 * [Selecting the database](selecting_the_database.md)
 * [Creating a new Segment](creating_a_new_segment.md)
 * [Creating a new Plan](creating_a_new_plan.md)
-* Creating a new Do Not Disturb Policy
+* [Creating a new Do Not Disturb Policy](creating_a_new_do_not_disturb_policy.md)
 * [Sign Out](sign_out.md)
 
