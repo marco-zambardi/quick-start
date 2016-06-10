@@ -15,11 +15,12 @@ To start creating your own segments, just click on "Create new segment" tab. The
 Here you can assign a name to the new segment and starting adding Rules to segment related to a given type of data, data can be Demographic data, Digital Messages data and Purchase data.
 Each Rule is a set of conditions upon a given type of data; you can mix freely Rules to create your target segment.
 
-Click on a Tab to create a Rule, you can choose between Custom Rule and Preset Rule:
+Click on a Tab to create a Rule, you can choose between Custom Rule and Preset Rule.
+Custom Rules give access to all the available fields in the database, Preset Rule are pre-configured rules that you can use as building blocks for your segment. Preset rules library may be empty at the very first login.
 
 ![](screenshot-cplan.contactlab.it 2016-06-06 11-51-17.jpg)
 
-To start, click on Custom Rule; in this way you can set condition on any available field in the database:
+To start, click on Custom Rule:
 
 ![](screenshot-cplan.contactlab.it 2016-06-06 11-53-18.jpg)
 
@@ -28,7 +29,7 @@ When you complete a Rule, you can assign it a name and add it to the segment by 
 ![](screenshot-cplan.contactlab.it 2016-06-06 11-54-42.jpg)
 
 
-Repeat all the above steps ass needed to create your target segment. When you have more than one Rule, you can set directly from the right summary, how the different Rules combine togheter as shown in the following picture.
+if you want to add further rules, repeat all the above steps as needed. When you have more than one Rule, you can set directly from the right summary, how the different Rules  combine togheter as shown in the following picture.
 
 ![](screenshot-cplan.contactlab.it 2016-06-06 11-56-39.jpg)
 
