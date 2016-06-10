@@ -1,6 +1,6 @@
 # Creating a new Plan
 
-After first login, the Plans page appear like this:
+From the navigation bar, select the tab Plans to access the Plans page. At first login, the Plans page appear like this:
 
 ![](screenshot-cplan.contactlab.it 2016-05-30 14-10-23.jpg)
 
@@ -18,11 +18,11 @@ You can modify the target date simply clicking on the date field, a calendar wil
 ![](screenshot-cplan-dev.contactlab.dev 2016-06-06 12-55-47.jpg)
 
 
-You can select the target segment, you can click on the "Select segment" field; the system will show all the available segments. you can choose the target one by selecting it. 
+To select the target segment, click on the "Select segment" field; the system will show all the available segments. you can choose the target one by selecting it. Alternatively, you can start a new plan directly from your target segment clicking on the Tab "Start new plan".
 
 ![](screenshot-cplan.contactlab.it 2016-06-06 12-59-03.jpg)
 
-To add a DND policy, click on the DND policy field, the system will show all the available policies. You can choose one by selecting it.
+To add a Do Not Disturb policy, click on the DND policy field, the system will show all the available policies. You can choose one by selecting it.
 
 ![](screenshot-cplan.contactlab.it 2016-06-06 13-03-53.jpg)
 
