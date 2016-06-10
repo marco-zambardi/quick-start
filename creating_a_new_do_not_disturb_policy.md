@@ -25,3 +25,14 @@ The saved rule will be shown in the DND policy list:
 You can set the policy as the default DND policy, i.e. the policy that will be automatically selected in each new Plan, checking the left button "Default".
 
 ![](screenshot-cplan-dev.contactlab.dev 2016-06-10 12-48-03_2.jpg)
+
+
+Next Page: [Sign Out](sign_out.md)
+
+Related pages:
+* [First Sign In](first_sign_in.md) 
+* [Selecting the Database](selecting_the_database.md)
+* [Creating a new Segment](creating_a_new_segment.md)
+* [Creating a new Plan](creating_a_new_plan.md)
+* [Creating a new Do Not Disturb policy](creating_a_new_do_not_disturb_policy.md)
+* [Sign Out](sign_out.md)
