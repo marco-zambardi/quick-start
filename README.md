@@ -53,6 +53,5 @@ Click the **Next page** link to go to the **Signing in for the first time** page
 
 ### Other links:  
 
-* [Contactplan Quick Start Guide](README.md)  
 * [Copyright](Copyright.md)  
 * [Glossary](Glossary.md)  
