@@ -1,6 +1,6 @@
 # Signing in for the first time
 
-![](OauthContactlabIT160530.jpg)  
+![](SignInContactlabIT160530.jpg)  
 **The Contactlab log-in page**  
 
 To sign in to Contactplan, do the following:  
@@ -12,17 +12,16 @@ To sign in to Contactplan, do the following:
   [https://cplan.contactlab.it](https://cplan.contactlab.it)  
   The Contactlab log-in page displays.  
 3. Enter the **Username** and **Password** that you have received from Contactlab.  
-4. Click **SIGN IN**  
   **Note:**  
   You can sign in with your Contactsend credentials, if you are already a Contactsend user and Contactplan has been enabled for your account.  
+4. Click **SIGN IN**  
+  The Contactplan start page displays.  
 
-The Contactplan start page displays. 
-
-![](CplanContactlabIT160530.jpg)  
+![](StartCplanContactlabIT160530.jpg)  
 **The Contactplan start page**
 
 ***Next page:***  
-[Selecting the Database](selecting_the_database.md)
+Selecting a Database](SelectingDatabase.md)
 
 ----------
 
