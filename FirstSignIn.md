@@ -1,7 +1,6 @@
 # Signing in for the first time
 
 ![](screenshot-oauth.contactlab.it 2016-05-30 14-08-01.jpg)  
-
 **The Contactlab log-in page**  
 
 To sign in to Contactplan, do the following:  
