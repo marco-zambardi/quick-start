@@ -3,7 +3,7 @@
 
 This **Quick Start Guide** helps you get started with Contactplan and includes the following information:
 
-* [Signing in for the first time](FirstSignIn)
+* [Signing in for the first time](FirstSignIn.md)
 * [Selecting a Database](SelectingDatabase)
 * [Creating a new Segment](CreatingNewSegment)
 * [Creating a new Plan](CreatingNewPlan)
