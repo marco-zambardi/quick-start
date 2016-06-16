@@ -19,7 +19,6 @@ To sign in to Contactplan, do the following:
 The Contactplan start page displays. 
 
 ![](screenshot-cplan.contactlab.it 2016-05-30 14-10-23.jpg)  
-
 **The Contactplan start page**
 
 Next page: [Selecting the Database](selecting_the_database.md)
