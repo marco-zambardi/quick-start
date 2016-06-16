@@ -15,10 +15,10 @@ To sign in to Contactplan, do the following:
   **Note:**  
   You can sign in with your Contactsend credentials, if you are already a Contactsend user and Contactplan has been enabled for your account.  
 4. Click **SIGN IN**  
-  The Contactplan start page displays.  
+  The Contactplan UI start page displays.  
 
 ![](StartCplanContactlabIT160530.jpg)  
-**The Contactplan start page**
+**The Contactplan UI start page**
 
 ***Next page:***  
 Selecting a Database](SelectingDatabase.md)
