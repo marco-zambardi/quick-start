@@ -7,10 +7,10 @@ To sign in to Contactplan, do the following:
   The current version of Contactplan supports Google Chrome 50 and later.  
 2. Enter the following URL:  
   [https://cplan.contactlab.it](https://cplan.contactlab.it)  
-  The Contactlab log-in page displays.  
+  The Contactlab log-in page displays. 
+ 
 ![](screenshot-oauth.contactlab.it 2016-05-30 14-08-01.jpg)  
-**The Contactlab log-in page**
-
+**The Contactlab log-in page**  
 3. Enter the **Username** and **Password** that you have received from Contactlab.  
 4. Click **SIGN IN**  
   **Note:**  
