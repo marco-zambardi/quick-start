@@ -1,6 +1,21 @@
-# First Sign In
+# Signing in for the first time
 
-In order to sign in to Contactplan, just open your browser and type the following URL:
+To sign in to Contactplan, do the following:  
+
+1. Open your web browser  
+  **Note:**  
+  The current version of Contactplan supports Google Chrome 50 and later.  
+2. Enter the following URL:  
+  [https://cplan.contactlab.it](https://cplan.contactlab.it)  
+  The Contactlab log in page displays.  
+  
+![](screenshot-oauth.contactlab.it 2016-05-30 14-08-01.jpg)  
+  
+1. Enter the **Username** and **Password** that you have received from Contactlab.  
+
+
+
+just open your browser and type the following URL:
 
 [https://cplan.contactlab.it](https://cplan.contactlab.it)
 
@@ -11,7 +26,7 @@ The browser shows the Account Central page where you can insert your credentials
 
 If you are already a users of Contactlab platform and you have been enabled to use Contactplan, then you can sign in with the same credentials used to access Contactlab platform.
 
-![](screenshot-oauth.contactlab.it 2016-05-30 14-08-01.jpg)
+
 
 Once you enter the correct username and password, you have access to Contactplan.
 At first login, the home page looks like this: 
