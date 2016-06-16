@@ -10,9 +10,6 @@ To sign in to Contactplan, do the following:
   The Contactlab log-in page displays.  
 
 ![](screenshot-oauth.contactlab.it 2016-05-30 14-08-01.jpg)  
-
-**The Contactlab log-in page**  
-
 3. Enter the **Username** and **Password** that you have received from Contactlab.  
 4. Click **SIGN IN**  
   **Note:**  
