@@ -12,7 +12,7 @@ To sign in to Contactplan, do the following:
 ![](screenshot-oauth.contactlab.it 2016-05-30 14-08-01.jpg)  
 **The Contactlab log-in page**  
   
-\3. Enter the **Username** and **Password** that you have received from Contactlab.  
+3. Enter the **Username** and **Password** that you have received from Contactlab.  
 4. Click **SIGN IN**  
   **Note:**  
   If you are already a Contactsend user and Contactplan has been enabled for you, you can sign in with your Contactsend credentials.  
