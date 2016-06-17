@@ -1,7 +1,7 @@
 # Contactplan Quick Start Guide
 
 
-This **Quick Start Guide** helps you get started with Contactplan and includes the following information:  
+This **Quick Start Guide** helps you to get started with Contactplan and includes the following information:  
 
 * [Signing in for the first time](FirstSignIn.md)  
 * [Selecting a Database](SelectingDatabase.md)  
@@ -19,8 +19,7 @@ You need your Contactplan access credentials to be able to use the application a
 At the bottom of each page are:  
 
 - **Related Pages** links  
-  A **Table of Contents** for all pages in this manual.  
-  - Click the **Contactplan Quick Start Guide** link to navigate back to this page  
+  Links to the main topics in this guide.     
 - **Other links**  
   Enable you to:  
   - Navigate back to this page at any time, by clicking the **Contactplan Quick Start Guide** link

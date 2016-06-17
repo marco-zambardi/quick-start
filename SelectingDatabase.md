@@ -1,24 +1,41 @@
 # Selecting the database
 
-The upper right corner of the UI shows the username of the logged user and the database name on which the user can operate.
+![](UsernameCplanQAContactlabDev160530.jpg)  
+**The Username and database name**  
 
-![](screenshot-cplan-qa.contactlab.dev 2016-05-30 14-22-11.jpg)
+The upper right corner of the Contactplan UI displays your **Username** and the name of the database that is available for you to use.  
 
-If you are authorized to operate on more than one database, you can switch to a different database by clicking on your username in the upper right corner and then by selecting settings.
+If you are authorized to use more than one database, you can change to a different one as follows:  
 
-![](screenshot-cplan-qa.contactlab.dev 2016-05-30 14-30-02.jpg)
+- Click your **Username**  
+  The **Settings** and **Sign out** buttons display.  
 
-![](screenshot-cplan-qa.contactlab.dev 2016-05-30 14-30-28.jpg)
- 
-You can select the database from the drop down menu named "Tenant". As you select a different database, the system will reload automatically.
+![](SettingsSignOutCplanQAContactlabDev160530.jpg)  
+**The Settings and Sign out buttons**  
 
+- Click **Settings**  
+  The **Settings** page displays.  
 
-Next page: [Creating a new Segment](creating_a_new_segment.md)
+![](SettingsCplanQAContactlabDev160530.jpg)  
+**The Settings page**  
 
-Related pages:
-* [First Sign In](first_sign_in.md) 
-* [Selecting the Database](selecting_the_database.md)
-* [Creating a new Segment](creating_a_new_segment.md)
-* [Creating a new Plan](creating_a_new_plan.md)
-* [Creating a new Do Not Disturb policy](creating_a_new_do_not_disturb_policy.md)
-* [Sign Out](sign_out.md)
+- Under **Tenant**, click the downwards pointing arrow to the right of the name of the current database, and select the new database from the drop-down list.  
+  The selected database is loaded automatically.  
+
+***Next page:***  
+[Creating a new Segment](CreatingNewSegment.md)  
+
+----------
+
+## Related Pages:  
+
+* [Signing in for the first time](FirstSignIn.md)  
+* [Creating a new Segment](CreatingNewSegment.md)  
+* [Creating a new Plan](CreatingNewPlan.md)  
+* [Creating a new Do Not Disturb policy](CreatingNewDND.md)  
+* [Signing out](SigningOut.md)  
+
+### Other links:  
+
+* [Contactplan Quick Start Guide](README.md)  
+* [Glossary](Glossary.md)  
