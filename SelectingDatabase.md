@@ -1,4 +1,4 @@
-# Selecting the database
+# Selecting a database
 
 ![](UsernameCplanQAContactlabDev160530.jpg)  
 **The Username and database name**  
@@ -23,15 +23,15 @@ If you are authorized to use more than one database, you can change to a differe
   The selected database is loaded automatically.  
 
 ***Next page:***  
-[Creating a new Segment](CreatingNewSegment.md)  
+[Creating a new segment](CreatingNewSegment.md)  
 
 ----------
 
 ## Related Pages:  
 
 * [Signing in for the first time](FirstSignIn.md)  
-* [Creating a new Segment](CreatingNewSegment.md)  
-* [Creating a new Plan](CreatingNewPlan.md)  
+* [Creating a new segment](CreatingNewSegment.md)  
+* [Creating a new plan](CreatingNewPlan.md)  
 * [Creating a new Do Not Disturb policy](CreatingNewDND.md)  
 * [Signing out](SigningOut.md)  
 

@@ -28,9 +28,9 @@ To sign in to the Contactplan UI, do the following:
 
 ## Related Pages:
 
-* [Selecting a Database](SelectingDatabase.md)  
-* [Creating a new Segment](CreatingNewSegment.md)  
-* [Creating a new Plan](CreatingNewPlan.md)  
+* [Selecting a database](SelectingDatabase.md)  
+* [Creating a new segment](CreatingNewSegment.md)  
+* [Creating a new plan](CreatingNewPlan.md)  
 * [Creating a new Do Not Disturb policy](CreatingNewDND.md)  
 * [Signing out](SigningOut.md)  
 

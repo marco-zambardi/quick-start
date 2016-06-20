@@ -1,26 +1,62 @@
-# Creating a new Plan
+# Creating a new plan
 
-From the navigation bar, select the tab Plans to access the Plans page. At first login, the Plans page appear like this:
+## Overview  
 
-![](screenshot-cplan.contactlab.it 2016-05-30 14-10-23.jpg)
+A plan is made up of all of the information that is required to use the contacts identified in a segment as, for example, the target audience for mailing activities. As a minimum, a plan contains details about when it should be carried out, the relevant segment and the platform or **consumer**, external to Contactplan, which is to receive the list of contacts.    
 
-To create a new Plan, click on "Create new plan". The following page will be displayed.
+A plan can also include additional elements, such as the appropriate Do Not Disturb (DND) policy, test email addresses and other options.  
 
-![](screenshot-cplan-dev.contactlab.dev 2016-06-06 12-51-03.jpg)
+See the *Contactplan User Guide* and the *Contactplan Product Overview* for more about plans.  
 
-To complete a Plan, at least the following information must be filled:
-* plan's name
-* target date of plan's execution
-* target audience of the plan, i.e. the segment 
+## Creating a plan  
 
-You can modify the target date simply clicking on the date field, a calendar will appear to select the new date and hour.
+There are two ways to start creating a plan. Do one of the following: 
 
-![](screenshot-cplan-dev.contactlab.dev 2016-06-06 12-55-47.jpg)
+- Click the **Plans** tab in the **navigation bar** on the **Contactplan UI start** page  
+  The **My plans** page displays.  
+
+![](MyPlansContactlabIT160530.jpg)  
+**The My plans page**  
+
+- Click **Create new plan**  
+  The **New plan** page displays.  
+
+![](NewPlanContactlabDev160606.jpg)  
+**The New plan page**  
+
+  or:  
+  
+- Once you have finished the rules that define a segment, click **Start new plan**, positioned towards the bottom right of the **New segment** page  
+  The **New plan** page displays.  
+  See [Creating a new segment](CreatingNewSegment.md) for more about the **New segment** page.  
+
+![](StartNewPlanContactlabIT160606.jpg)  
+**The New segment page showing the Start new plan button**  
+
+Once you have arrived at the **New plan** page, the steps are generally the same. Do the following:
+
+- Click the **Insert plan name** field, positioned under the page title, and enter a name for the plan  
+- Under **Plan details**, click the first box next to **Day & hour**  
+  The **Calendar** widget displays.  
+
+![](CalendarContactlabDev160606.jpg)  
+**The Calendar widget**  
+
+- Use the calendar controls to select the appropriate date and time to run the plan  
+- Under **Segment**, click the downwards pointing arrow to the right of the box marked **Select segment**, and choose the appropriate segment from the drop-down list  
+  **Note:**  
+  If you arrived at the **New plan** page from the **New segment page**, you can ignore this step as the segment is automatically selected for you.  
+
+![](PlanSegmentContactlabIT160606.jpg)  
+**The drop-down list of segments**  
 
 
-To select the target segment, click on the "Select segment" field; the system will show all the available segments. you can choose the target one by selecting it. Alternatively, you can start a new plan directly from your target segment clicking on the Tab "Start new plan".
+**HEREHEREHERE**
 
-![](screenshot-cplan.contactlab.it 2016-06-06 12-59-03.jpg)
+
+
+
+
 
 To add a Do Not Disturb policy, click on the DND policy field, the system will show all the available policies. You can choose one by selecting it. If no DND policies are shown, you can create a new one in "Settings" page and then enter the "DND Policy" page.
 

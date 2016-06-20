@@ -1,10 +1,14 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Sign In](first_sign_in.md)
-* [Selecting the database](selecting_the_database.md)
-* [Creating a new Segment](creating_a_new_segment.md)
-* [Creating a new Plan](creating_a_new_plan.md)
-* [Creating a new Do Not Disturb Policy](creating_a_new_do_not_disturb_policy.md)
-* [Sign Out](sign_out.md)
+* [Contactplan Quick Start Guide](README.md)  
+* [Signing in for the first time](FirstSignIn.md)  
+* [Selecting a database](SelectingDatabase.md)  
+* [Creating a new segment](CreatingNewSegment.md)  
+* [Creating a new plan](CreatingNewPlan.md)  
+* [Creating a new Do Not Disturb policy](CreatingNewDND.md)  
+* [Signing out](SigningOut.md)  
 
+## Other links:  
+
+* [Copyright](Copyright.md)  
+* [Glossary](Glossary.md)  

@@ -2,7 +2,9 @@
 
 ## Overview  
 
-A **segment** is created by defining a set of **conditions**. These are then combined using **logical operators** and applied to a given database. Contacts satisfying the defined conditions, at the point in time that they are applied to the database, are selected by the segment. It is important to understand, however, that the same segment can select another set of contacts at a different point in time.   
+A **segment** is created by defining a set of **conditions**. These are then combined using **logical operators** and applied to a given database. Contacts satisfying the defined conditions, at the point in time that they are applied to the database, are selected by the segment. 
+
+It is important to understand, however, that the same segment can select another set of contacts at a different point in time, due to changes in the available data.     
 
 Conditions are organized into **rules**. Each segment contains at least one rule. Each rule comprises of a set of conditions that are applied to a particular type of data, such as **Demographic data**, **Digital Messages data** or **Purchases data**.  
 
@@ -10,16 +12,16 @@ See the *Contactplan User Guide* and the *Contactplan Product Overview* for more
 
 ## Creating a segment
 
-Once you have signed in to Contactplan, do the following:
+Once you have signed in to Contactplan, do the following:  
 
-- Click the **Segments** tab on the **Contactplan UI start** page  
+- Click the **Segments** tab in the **navigation bar** on the **Contactplan UI start** page  
   The **My segments** page displays.  
 
 ![](MySegmentsContactlabIT160606.jpg)  
 **The My segments page**  
 
 - Click **Create new segment**  
-  The **New segment** page displays.
+  The **New segment** page displays.  
 
 ![](NewSegmentContactlabIT160606.jpg)  
 **The New segment page**
@@ -101,15 +103,15 @@ The **Create Demographic Rule** page displays, with **My favorite rules** highli
 To re-open a segment once it has been completed, click its name in the list on the **My segments** page.  
 
 ***Next page:***  
-[Creating a new Plan](CreatingNewPlan.md)  
+[Creating a new plan](CreatingNewPlan.md)  
 
 ----------
 
 ## Related Pages:  
 
 * [Signing in for the first time](FirstSignIn.md)  
-* [Selecting a Database](SelectingDatabase.md)  
-* [Creating a new Plan](CreatingNewPlan.md)  
+* [Selecting a database](SelectingDatabase.md)  
+* [Creating a new plan](CreatingNewPlan.md)  
 * [Creating a new Do Not Disturb policy](CreatingNewDND.md)  
 * [Signing out](SigningOut.md)  
 
