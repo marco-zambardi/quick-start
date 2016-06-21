@@ -18,33 +18,51 @@ Do the following:
 - Click **Create new DND policy**  
   The **Create new DND policy** page displays.  
 
-![](CreateNewDNDContactlabDev160606.jpg)
-**The Create new DND policy page**
+![](CreateNewDNDContactlabDev160606.jpg)  
+**The Create new DND policy page**  
 
-**HEREHEREHERE**
+- Enter a name for the policy in the box under the page title  
 
+![](CreateNewDNDNameContactlabDev160606.jpg)  
+**The DND policy name box**  
 
-Insert a name for the policy and the rule of the policy, i.e. how many deliveries are allowed in the given time period.
-To add a second rule, check the "Add rule" button.
-To save the policy, click on the "Save" button.
+- Under **Allow sending: max**, add a rule that defines how many deliveries are allowed in a given time period   
 
-![](screenshot-cplan-dev.contactlab.dev 2016-06-10 12-47-17.jpg)
+![](CreateNewDNDRuleContactlabDev160606.jpg)  
+**The DND policy rule boxes**  
 
-The saved rule will be shown in the DND policy list:
+- To define a second rule, click the **Add rule** checkbox and add a second rule under **and max**  
 
-![](screenshot-cplan-dev.contactlab.dev 2016-06-10 12-48-03.jpg)
+![](CreateNewDNDRule2ContactlabDev160606.jpg)  
+**The additional DND policy rule boxes**
 
-You can set the policy as the default DND policy, i.e. the policy that will be automatically selected in each new Plan, checking the left button "Default".
+- When your DND policy is complete, click **Save**  
+  You are returned to the **Do Not Disturb policy** page and the new policy is added to the list.  
 
-![](screenshot-cplan-dev.contactlab.dev 2016-06-10 12-48-03_2.jpg)
+![](NewDNDAddedContactlabDev160606.jpg)  
+**The Do Not Disturb policy page with a new policy added to the list**  
 
+- To set the policy as the default DND policy, meaning the one that is automatically applied to each new plan, click the radio button in the **Default** column of the **Do Not Disturb policy** list
 
-Next Page: [Sign Out](sign_out.md)
+![](DefaultDNDContactlabDev160606.jpg)  
+**The default policy radio button in the Do Not Disturb policy list**  
 
-Related pages:
-* [First Sign In](first_sign_in.md) 
-* [Selecting the Database](selecting_the_database.md)
-* [Creating a new Segment](creating_a_new_segment.md)
-* [Creating a new Plan](creating_a_new_plan.md)
-* [Creating a new Do Not Disturb policy](creating_a_new_do_not_disturb_policy.md)
-* [Sign Out](sign_out.md)
+To re-open a policy once it has been saved, click its name in the list on the **Do Not Disturb policy** page.  
+
+***Next page:***  
+[Signing out](SigningOut.md)  
+
+----------
+
+## Related Pages:  
+
+* [Signing in for the first time](FirstSignIn.md)  
+* [Selecting a database](SelectingDatabase.md)  
+* [Creating a new segment](CreatingNewSegment.md)  
+* [Creating a new plan](CreatingNewPlan.md)  
+* [Signing out](SigningOut.md)  
+
+### Other links:  
+
+* [Contactplan Quick Start Guide](README.md)  
+* [Glossary](Glossary.md)  

@@ -43,8 +43,6 @@ A special kind of query that can be applied to behavioral data. An analytical qu
 
 All those contacts who have bought yellow bags on more than 10% of the occasions when they bought something.  
 
-See [Analytical queries](AnalyticalQueries) for more details.  
-
 
 <a name="B"></a>
 
@@ -71,13 +69,11 @@ Last name (*attribute*), Equal to (*operator*), Smith (*value*)
 
 Multiple conditions may used to define a rule, and can be combined using logical operators such as AND or OR.  
 
-See [Understanding segmentation](UnderstandingSegmentation) for more details.  
 
 ### Consumer  
 
 A target platform that is external to Contactplan, which uses the list of contacts associated with a plan, and may also carry out the plan itself. To deploy a consumer, it always needs to be associated with a plan, but plans can have zero, one or more consumers. Each consumer uses the list of contacts according to its assigned role.  
 
-See [Understanding plans](UnderstandingPlans) for more details.  
 
 ### Contact  
 
@@ -91,7 +87,6 @@ A special kind of query that can be applied to behavioral data. A correlation-ba
 
 All those contacts who reserved a hotel room within seven days of having booked a flight.  
 
-See [Correlation-based queries](CorrelationBasedQueries) for more details.  
 
 <a name="D"></a>
 
@@ -111,13 +106,11 @@ All the events recorded in the database that relate to how a contact reacts to t
 - Clicks  
   A link in a particular communication has been clicked by the contact  
 
-See [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule) and [Time frame conditions](TimeFrameConditions) for more details.  
 
 ### DND policy  
 
 Defines the maximum number of communications that can be sent to a contact in a given time frame.  
 
-See [Managing DND policy settings](ManagingDND) for more details.  
 
 <a name="E"></a>
 
@@ -130,8 +123,6 @@ See [Managing DND policy settings](ManagingDND) for more details.
 
 Data related to the behavior of customers. An event is associated with the precise moment in time that it took place, and a particular contact. They are organized in categories and types, and may have specific properties.  
 
-See [Time frame conditions](TimeFrameConditions) for more details.  
-
 <a name="F"></a>
 
 <br/>
@@ -143,7 +134,6 @@ See [Time frame conditions](TimeFrameConditions) for more details.
 
 A query or a combination of queries that are applied to the customer database. A filter is defined by the segment rule or rules, which in turn may consist of multiple conditions that are applied to demographic or behavioral information.  
 
-See [Understanding segmentation](UnderstandingSegmentation) for more details.  
 
 <a name="G"></a>
 
@@ -169,8 +159,6 @@ See [Understanding segmentation](UnderstandingSegmentation) for more details.
 ### Interaction condition  
 
 The logical operator that is applied to combine two rules. For example, AND, OR, or EXCEPT.  
-
-See [Combining segment rules](CombiningSegmentRules) for more details.  
 
 
 <a name="J"></a>
@@ -247,7 +235,6 @@ Available options include:
 - A plan consumer  
 - Test email addresses  
 
-See [Understanding plans](UnderstandingPlans) for more details.  
 
 ### Purchase events  
 
@@ -261,8 +248,6 @@ All those events related to purchases made by a contact, either online or in sto
   Contacts that have made a purchase.  
 - Do not have an order line  
   Contacts that have not made a purchase.  
-
-See [Creating a custom purchases rule](CreatingCustomPurchasesRule) and [Time frame conditions](TimeFrameConditions) for more details.  
 
 
 <a name="Q"></a>
@@ -291,8 +276,6 @@ A single rule cannot include conditions that relate to different data types, for
 
 Rules can be combined using logical operators or interaction conditions, such as AND, OR, or EXCEPT.  
 
-See [Understanding segmentation](UnderstandingSegmentation) for more details.  
-
 
 <a name="S"></a>
 
@@ -307,7 +290,6 @@ The result of a filter being applied to a database. A segment identifies a group
 
 A segment can also be created by combining existing segments. Once a segment has been saved, it can be opened, edited or deleted. A segment is identified by a UUID and a unique name.  
 
-See [Understanding segmentation](UnderstandingSegmentation) for more details.  
 
 <a name="T"></a>
 
@@ -328,7 +310,6 @@ See [Understanding segmentation](UnderstandingSegmentation) for more details.
 
 The authorized staff of an organization, who operate Contactplan and are assigned a user profile.  
 
-See [Understanding Contactplan](UnderstandingContactPlan) for more details.  
 
 <a name="V"></a>
 
