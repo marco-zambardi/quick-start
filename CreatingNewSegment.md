@@ -12,7 +12,7 @@ See the *Contactplan User Guide* and the *Contactplan Product Overview* for more
 
 ## Creating a segment
 
-Once you have signed in to Contactplan, do the following:  
+Do the following:  
 
 - Click the **Segments** tab in the **navigation bar** on the **Contactplan UI start** page  
   The **My segments** page displays.  

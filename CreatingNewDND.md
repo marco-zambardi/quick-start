@@ -1,15 +1,27 @@
 # Creating a new Do Not Disturb Policy
 
-A Do Not Disturb (DND) policy is defined by by creating one or more quantity and time-based delivery rules, which are applied to the contacts in the relevant segment when a plan is run. For example, allow a maximum of one delivery each day and up to five deliveries in a week.
+## Overview  
 
-To create a new DND policy, select on the navigation bar "Setting" and then "DND policy". If, no DND policy have been already created, the page will look like this:
+A DND policy is defined by creating one or more quantity and time-based delivery rules, which are then applied to the contacts belonging to the relevant segment when a plan is run. For example, allow a maximum of one delivery each day and up to five deliveries each week.
 
-![](screenshot-cplan-dev.contactlab.dev 2016-06-10 12-42-54.jpg)
+## Creating a DND policy  
 
+Do the following:  
 
-To create a new DND policy, selete "Create new DND policy".
+- Click the **Settings** tab in the **navigation bar** on the **Contactplan UI start** page
+- Click the **DND policy** tab on the **Settings** page  
+  The **Do Not Disturb policy** page displays.  
 
-![](screenshot-cplan-dev.contactlab.dev 2016-06-10 12-44-31.jpg)
+![](DNDPolicyContactlabDev160606.jpg)  
+**The Do Not Disturb policy page**  
+
+- Click **Create new DND policy**  
+  The **Create new DND policy** page displays.  
+
+![](CreateNewDNDContactlabDev160606.jpg)
+**The Create new DND policy page**
+
+**HEREHEREHERE**
 
 
 Insert a name for the policy and the rule of the policy, i.e. how many deliveries are allowed in the given time period.
