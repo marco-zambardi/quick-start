@@ -10,7 +10,7 @@ If you are authorized to use more than one database, you can change to a differe
 - Click your **Username**  
   The **Settings** and **Sign out** buttons display.  
 
-![](SettingsSignOutCplanQAContactlabDev160530.jpg)  
+![](SettingsSignOut1CplanQAContactlabDev160530.jpg)  
 **The Settings and Sign out buttons**  
 
 - Click **Settings**  

@@ -2,7 +2,7 @@
 
 ## Overview  
 
-A DND policy is defined by creating one or more quantity and time-based delivery rules, which are then applied to the contacts belonging to the relevant segment when a plan is run. For example, allow a maximum of one delivery each day and up to five deliveries each week.
+A DND policy is defined by creating one or more quantity and time-based delivery rules, for example, allow a maximum of one delivery each day and up to five deliveries each week. These rules are then used to filter the contacts belonging to the relevant segment, when a plan is run. 
 
 ## Creating a DND policy  
 

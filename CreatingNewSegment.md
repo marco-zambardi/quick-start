@@ -6,7 +6,7 @@ A **segment** is created by defining a set of **conditions**. These are then com
 
 It is important to understand, however, that the same segment can select another set of contacts at a different point in time, due to changes in the available data.     
 
-Conditions are organized into **rules**. Each segment contains at least one rule. Each rule comprises of a set of conditions that are applied to a particular type of data, such as **Demographic data**, **Digital Messages data** or **Purchases data**.  
+Conditions are organized into **rules**. Each segment contains at least one rule. Each rule is made up of one or more conditions that are applied to a particular type of data, such as **Demographic data**, **Digital Messages data** or **Purchases data**.  
 
 See the *Contactplan User Guide* and the *Contactplan Product Overview* for more about segments.  
 
@@ -60,7 +60,7 @@ The **Create Demographic Rule** page displays, with **My favorite rules** highli
   For the purposes of this example, a **Custom rule** is created.  
 
 - Click **Create custom rule**  
-  The **New demographic custom rule** page displays, showing the **segment name** as its title.  
+  The **New demographic custom rule** page displays, showing the **segment name** as its title and **Demographic** highlighted in a box.  
 
 ![](NewDemographicCustomContactlabIT160606.jpg)  
 **The New demographic custom rule page**  
@@ -74,13 +74,14 @@ The **Create Demographic Rule** page displays, with **My favorite rules** highli
    See the *Contactplan User Guide* for more about operators.  
   - Enter the required last name, for example, *Smith*, in the **Free text** field  
    The system automatically displays the number of contacts in the database that match the condition.  
-
-![](NumberofContactsContactlabIT160606.jpg)  
-**The New demographic custom rule page displaying the number of selected contacts**  
-
 - Define further conditions if required  
   **Note:**  
-  You can add other conditions to the **New demographic custom rule** page by clicking the downwards pointing arrow to the right of the **Add condition** box, and selecting the appropriate condition.   
+  You can add other conditions to those already displayed in the **New demographic custom rule** page, by clicking the downwards pointing arrow to the right of the **Add condition** box, and selecting the appropriate condition.  
+  - If you define more than one condition, under **Match**, click **ALL** or **ANY** to choose whether contacts should satisfy all of the conditions, or at least one of them  
+
+![](NumberofContactsContactlabIT160606.jpg)  
+**The New demographic custom rule page displaying the Match options and the number of selected contacts**  
+
 - When you have defined all the conditions for the rule, click **Add**  
   The **New demographic custom rule** page closes and the new rule displays in the **Rule list** area of the **Summary panel**, on the **New segment** page.  
 

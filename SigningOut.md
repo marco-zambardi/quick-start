@@ -10,7 +10,7 @@ To sign out of Contactplan, do the following:
 - Click your **Username**  
   The **Settings** and **Sign out** buttons display.  
 
-![](SettingsSignOutCplanQAContactlabDev160530.jpg)  
+![](SettingsSignOut2CplanQAContactlabDev160530.jpg)  
 **The Settings and Sign out buttons**  
 
 - Click **Sign Out**  

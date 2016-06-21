@@ -12,9 +12,9 @@ A plan can also include additional elements, such as the appropriate Do Not Dist
 
 ### The contact list and consumers  
 
-The end result of a scheduled plan is a **contact list**. This list can be stored in the system for downloading in the future, or sent for further processing to a **consumer** such as:
+The end result of a scheduled plan is a **contact list**. This can be stored in the system for downloading in the future, or sent for further processing to a **consumer** such as:
 
-- An SFTP folder  
+- An SFTP location  
 - Contactsend, for onward delivery  
 
 See the *Contactplan User Guide* and the *Contactplan Product Overview* for more about plans.  
@@ -44,7 +44,7 @@ There are two ways to start creating a plan. Do one of the following:
 ![](StartNewPlanContactlabIT160606.jpg)  
 **The New segment page showing the Start new plan button**  
 
-Once you have arrived at the **New plan** page, the steps are generally the same. Do the following:
+Once you have arrived at the **New plan** page, the steps to create a plan are generally the same. Do the following:
 
 - Click the **Insert plan name** field, positioned under the page title, and enter a name for the plan  
 - Under **Plan details**, click the first box next to **Day & hour**  
@@ -81,12 +81,12 @@ Do the following:
   - **Clab Consumer**  
    Enables you to create a delivery using Contactsend.  
   - **SFTP Consumer**  
-   Saves the **contacts list**, generated according to the segment and any applicable DND policy, to an SFTP server that has previously been configured by Contactlab.  
+   Saves the **contacts list**, generated according to the segment and any applicable DND policy, to an SFTP location that has previously been configured by Contactlab.  
 
 ![](ConsumerContactlabDev160606.jpg)  
 **The Consumer drop-down list**  
 
-If you select **Clab Consumer**, a new window displays, which enables you add all the information that is required to create a delivery using Contactsend. For example, you can use whichever editor you choose to create the HTML code that defines the content for your email delivery, then copy and paste it into the HTML box provided under **Message body.** The system does the rest.  
+If you select **Clab Consumer**, a new window displays, which enables you add all the information that is required to create a delivery using Contactsend. For example, you can use whichever editor you choose to create the HTML code that defines the content for an email delivery, then copy and paste it into the HTML box provided under **Message body.** The system does the rest.  
 
 ![](ContactSendDeliveryContactlabDev160606.jpg)  
 **The Clab Consumer page**  
