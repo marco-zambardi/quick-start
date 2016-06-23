@@ -89,7 +89,7 @@ The **Create Demographic Rule** page displays, with **My favorite rules** highli
 **The Rule list area of the Summary panel on the New segment page**  
 
 - You can add further rules by repeating the above steps as required. 
-- When you have more than one rule, you can define how the rules are combined by using the **AND**, **OR** or **EXCEPT** interaction conditions in the **Rule list** area of the **Summary panel**
+- When you have more than one rule, you can define how the rules are combined by using the **AND**, **OR** or **EXCEPT** interaction conditions in the **Rule list** area of the **Summary panel**  
   See the *Contactplan User Guide* for more about interaction conditions.  
 
 ![](RuleList2ContactlabIT160606.jpg)  
